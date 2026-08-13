@@ -6,7 +6,7 @@
 
 **Distributed cloud infrastructure, without the ceremony.**
 
-[Website](https://bahriya.cloud) · [Console](https://app.bahriya.cloud) · [Knowledgebase](https://bahriya.cloud/knowledgebase) · [Blog](https://bahriya.cloud/blog)
+[Website](https://bahriya.cloud) · [Console](https://console.bahriya.cloud) · [Knowledgebase](https://bahriya.cloud/knowledgebase) · [Blog](https://bahriya.cloud/blog)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 Bahriya is a container cloud with a simple contract: **bring a container image, pick your regions, and the platform runs it.** Load balancing, TLS, health checks, autoscaling, a secrets vault and managed datastores are included rather than bolted on — so shipping to production looks like shipping, not like assembling a platform first.
 
-Everything has three front doors, all first-class from day one: the [console](https://app.bahriya.cloud), the [Reis CLI](https://bahriya.cloud/product/cli), and [Terraform](https://bahriya.cloud/product/terraform). Whatever you can click, you can script and you can declare.
+Everything has three front doors, all first-class from day one: the [console](https://console.bahriya.cloud), the [Reis CLI](https://bahriya.cloud/product/cli), and [Terraform](https://bahriya.cloud/product/terraform). Whatever you can click, you can script and you can declare.
 
 ## The platform
 
